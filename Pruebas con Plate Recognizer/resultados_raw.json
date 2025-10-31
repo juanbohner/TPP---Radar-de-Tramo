@@ -1,0 +1,337 @@
+{
+  "AC530BE.jpg": {
+    "patente_real": "AC530BE",
+    "plate_api": "C630BF",
+    "score_api": 0.914,
+    "candidatos": [
+      "C630BF",
+      "C530BF",
+      "C6308F",
+      "C63OBF",
+      "C5308F",
+      "C53OBF",
+      "C63O8F",
+      "C53O8F"
+    ],
+    "vehicle_type": "SUV",
+    "vehicle_score": 0.928,
+    "vehicle_box": {
+      "xmin": 508,
+      "ymin": 888,
+      "xmax": 1443,
+      "ymax": 1493
+    },
+    "tiempo": 0.6675224304199219,
+    "estado": "OK",
+    "json_raw": {
+      "processing_time": 75.879,
+      "results": [
+        {
+          "box": {
+            "xmin": 701,
+            "ymin": 1141,
+            "xmax": 846,
+            "ymax": 1189
+          },
+          "plate": "c630bf",
+          "region": {
+            "code": "ar",
+            "score": 0.055
+          },
+          "score": 0.914,
+          "candidates": [
+            {
+              "score": 0.914,
+              "plate": "c630bf"
+            },
+            {
+              "score": 0.859,
+              "plate": "c530bf"
+            },
+            {
+              "score": 0.758,
+              "plate": "c6308f"
+            },
+            {
+              "score": 0.758,
+              "plate": "c63obf"
+            },
+            {
+              "score": 0.703,
+              "plate": "c5308f"
+            },
+            {
+              "score": 0.703,
+              "plate": "c53obf"
+            },
+            {
+              "score": 0.601,
+              "plate": "c63o8f"
+            },
+            {
+              "score": 0.546,
+              "plate": "c53o8f"
+            }
+          ],
+          "dscore": 0.864,
+          "vehicle": {
+            "score": 0.928,
+            "type": "SUV",
+            "box": {
+              "xmin": 508,
+              "ymin": 888,
+              "xmax": 1443,
+              "ymax": 1493
+            }
+          }
+        }
+      ],
+      "filename": "0506_ev0sa_AC530BE.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-10-31T05:06:21.385072Z",
+      "image_width": 1773,
+      "image_height": 1872
+    }
+  },
+  "AE159KJ.jpg": {
+    "patente_real": "AE159KJ",
+    "plate_api": "AE159KJ",
+    "score_api": 0.998,
+    "candidatos": [
+      "AE159KJ"
+    ],
+    "vehicle_type": "Sedan",
+    "vehicle_score": 0.681,
+    "vehicle_box": {
+      "xmin": 62,
+      "ymin": 65,
+      "xmax": 511,
+      "ymax": 357
+    },
+    "tiempo": 0.4442720413208008,
+    "estado": "OK",
+    "json_raw": {
+      "processing_time": 22.371,
+      "results": [
+        {
+          "box": {
+            "xmin": 336,
+            "ymin": 267,
+            "xmax": 412,
+            "ymax": 294
+          },
+          "plate": "ae159kj",
+          "region": {
+            "code": "ar",
+            "score": 0.749
+          },
+          "score": 0.998,
+          "candidates": [
+            {
+              "score": 0.998,
+              "plate": "ae159kj"
+            }
+          ],
+          "dscore": 0.922,
+          "vehicle": {
+            "score": 0.681,
+            "type": "Sedan",
+            "box": {
+              "xmin": 62,
+              "ymin": 65,
+              "xmax": 511,
+              "ymax": 357
+            }
+          }
+        }
+      ],
+      "filename": "0506_2AX5Q_AE159KJ.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-10-31T05:06:23.882961Z",
+      "image_width": 686,
+      "image_height": 386
+    }
+  },
+  "AD822PW.png": {
+    "patente_real": "AD822PW",
+    "plate_api": "AD822PW",
+    "score_api": 0.998,
+    "candidatos": [
+      "AD822PW"
+    ],
+    "vehicle_type": "Sedan",
+    "vehicle_score": 0.927,
+    "vehicle_box": {
+      "xmin": 8,
+      "ymin": 4,
+      "xmax": 323,
+      "ymax": 213
+    },
+    "tiempo": 0.3614785671234131,
+    "estado": "OK",
+    "json_raw": {
+      "processing_time": 46.935,
+      "results": [
+        {
+          "box": {
+            "xmin": 23,
+            "ymin": 126,
+            "xmax": 68,
+            "ymax": 163
+          },
+          "plate": "ad822pw",
+          "region": {
+            "code": "ar",
+            "score": 0.949
+          },
+          "score": 0.998,
+          "candidates": [
+            {
+              "score": 0.998,
+              "plate": "ad822pw"
+            }
+          ],
+          "dscore": 0.898,
+          "vehicle": {
+            "score": 0.927,
+            "type": "Sedan",
+            "box": {
+              "xmin": 8,
+              "ymin": 4,
+              "xmax": 323,
+              "ymax": 213
+            }
+          }
+        }
+      ],
+      "filename": "0506_knqay_AD822PW.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-10-31T05:06:26.219167Z",
+      "image_width": 420,
+      "image_height": 280
+    }
+  },
+  "AD030AC.jpg": {
+    "patente_real": "AD030AC",
+    "plate_api": "AD030AC",
+    "score_api": 0.999,
+    "candidatos": [
+      "AD030AC"
+    ],
+    "vehicle_type": "Sedan",
+    "vehicle_score": 0.947,
+    "vehicle_box": {
+      "xmin": 22,
+      "ymin": 51,
+      "xmax": 331,
+      "ymax": 229
+    },
+    "tiempo": 0.366321325302124,
+    "estado": "OK",
+    "json_raw": {
+      "processing_time": 52.827,
+      "results": [
+        {
+          "box": {
+            "xmin": 66,
+            "ymin": 171,
+            "xmax": 110,
+            "ymax": 185
+          },
+          "plate": "ad030ac",
+          "region": {
+            "code": "ar",
+            "score": 0.949
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "ad030ac"
+            }
+          ],
+          "dscore": 0.888,
+          "vehicle": {
+            "score": 0.947,
+            "type": "Sedan",
+            "box": {
+              "xmin": 22,
+              "ymin": 51,
+              "xmax": 331,
+              "ymax": 229
+            }
+          }
+        }
+      ],
+      "filename": "0506_3FjL9_AD030AC.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-10-31T05:06:28.586253Z",
+      "image_width": 345,
+      "image_height": 258
+    }
+  },
+  "ANO433.png": {
+    "patente_real": "ANO433",
+    "plate_api": "ANO433",
+    "score_api": 0.994,
+    "candidatos": [
+      "ANO433"
+    ],
+    "vehicle_type": "Pickup Truck",
+    "vehicle_score": 0.431,
+    "vehicle_box": {
+      "xmin": 86,
+      "ymin": 3,
+      "xmax": 531,
+      "ymax": 313
+    },
+    "tiempo": 0.54386305809021,
+    "estado": "OK",
+    "json_raw": {
+      "processing_time": 20.599,
+      "results": [
+        {
+          "box": {
+            "xmin": 218,
+            "ymin": 151,
+            "xmax": 291,
+            "ymax": 185
+          },
+          "plate": "ano433",
+          "region": {
+            "code": "ar",
+            "score": 0.743
+          },
+          "score": 0.994,
+          "candidates": [
+            {
+              "score": 0.994,
+              "plate": "ano433"
+            }
+          ],
+          "dscore": 0.867,
+          "vehicle": {
+            "score": 0.431,
+            "type": "Pickup Truck",
+            "box": {
+              "xmin": 86,
+              "ymin": 3,
+              "xmax": 531,
+              "ymax": 313
+            }
+          }
+        }
+      ],
+      "filename": "0506_BmNzF_ANO433.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-10-31T05:06:31.165220Z",
+      "image_width": 539,
+      "image_height": 540
+    }
+  }
+}

@@ -1,0 +1,6 @@
+imagen,patente_real,lectura_api,match,score_api,candidatos,tipo_vehiculo,score_vehiculo,tiempo_procesamiento (s),estado
+AC530BE.jpg,AC530BE,C630BF,False,0.914,"C630BF, C530BF, C6308F, C63OBF, C5308F, C53OBF, C63O8F, C53O8F",SUV,0.928,0.67,OK
+AE159KJ.jpg,AE159KJ,AE159KJ,True,0.998,AE159KJ,Sedan,0.681,0.44,OK
+AD822PW.png,AD822PW,AD822PW,True,0.998,AD822PW,Sedan,0.927,0.36,OK
+AD030AC.jpg,AD030AC,AD030AC,True,0.999,AD030AC,Sedan,0.947,0.37,OK
+ANO433.png,ANO433,ANO433,True,0.994,ANO433,Pickup Truck,0.431,0.54,OK
